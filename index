@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>zadania</title>
+    <link rel= "stylesheet" href="style.css">
+</head>
+<body>
+    <div class="imie" style="text-align: right; color: blue;">
+     <h6>Artem</h6>
+      <h5>Artem</h5>
+     <h4>Artem</h4>
+      <h3>Artem</h3>
+      <h2>Artem</h2>
+     <h1>Artem</h1>
+     
+    </div>   
+    <div class="surname" style="color: brown;">
+        <h1>Sydorenko</h1>
+        <h2>Sydorenko</h2>
+       <h3>Sydorenko</h3>
+        <h4>Sydorenko</h4>
+        <h5>Sydorenko</h5>
+       <h6>Sydorenko</h6>
+    </div>
+    <div class="smile" style="text-align: right;">
+        <h1 style="color: rgb(252, 235, 6);">:-D bardzo zadowolony</h1>
+        <h2 style="color: rgb(49, 201, 35);">-) mrugnięcie okiem</h2>
+       <h3 style="color: rgb(82, 70, 190);">:-l niezadowolony</h3>
+        <h4 style="color: rgba(30, 221, 23, 0.459);">:-) zadowolony</h4>
+        <h5 style="color: rgb(82, 14, 35);" >:-O zdziwienie</h5>
+       <h6 style="color: rgb(12, 67, 184);" >:-P pokazywanie języka</h6>
+ </div>
+    <div class="zadania2" style="padding: 50px;">
+     <h1 style="color: rgb(216, 73, 29);">Adres:Jana i Macieja Kilarskich 8</h1>   
+      <h3 style="color: rgb(228, 135, 15); text-align: center;">Ulubiony aktor:Leonardo Di Kaprio</h3> 
+      <h3 style="color: rgb(53, 197, 137); text-align: center;">Ulubiony zespół muzyczny:Kalush</h3> 
+      <h4 style="color: rgb(228, 106, 68); text-align: right;">Data urodzenia: 26 październik 2005</h4> 
+      <h2>H2SO4</h2>  
+      <h2>x*x=x2</h2> 
+    </div>
+    <div class="zadannie3" >
+      <div class="1tablica" style="padding: 50px;">
+            <h1>Żart o informatyku</h1>
+            <div style="box-sizing: border-box;position: absolute;width:95%;height: 100px;border: 1px solid #000000;">
+                <p>- Czym różni się doświadczony informatyk od początkującego?<br>
+               - Początkujący uważa, że 1KB to 1000B, a
+                doświadczony jest pewnien, że 1km to 1024m.</p>
+            </div>
+            
+        </div>
+        <div style="height: 10px; width: 50%; background-color: aqua; margin-top: 100px;"></div>
+        <div class="2tablica" style="padding: 50px;">
+            <h1 style="text-align: center; color: blue;">Żart o informatyku</h1>
+            <div style="box-sizing: border-box;position: absolute;width:95%;height: 100px;border: 1px solid #000000;">
+                <p>- Jedna z korporacji branży IT opracowała dyski twarde o<br>
+                    nieskończonej pojemności. Mają trafić na rynek jak tylko<br>
+                    skończą się formatować.</p>
+            </div>
+            <div style="height: 10px; width: 100%; background-color: rgb(205, 28, 221); margin-top: 150px; text-align: left;"></div>
+        </div>
+        <div class="3tablica" style="padding: 50px;">
+            <h1 style="color: bisque; text-align: right;">Żart o informatyku</h1>
+            <div style="box-sizing: border-box;position: absolute;width:95%;height: 100px;border: 1px solid #000000;">
+                <p>- No, takiego wirusa to ja jeszcze nie miałem! - rzekł zięć<br>
+                    informatyk, widząc teściową przy swoim komputerze...</p>
+            </div>
+        </div>
+        <div style="height: 10px; width: 75%; background-color: rgb(29, 211, 59); margin-top: 100px;"></div>
+        <h4>nazwisko ucznia &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp           imię ucznia</h4>
+        <h4> Sydorenko &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp           Artem</h4>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <div class="zadanie">
+      <h1>Peryferia komputerowa</h1>
+      <br>
+      <br>
+      <h3 style="color: blueviolet;">Ważny tekst</h3>
+      <br>
+      <br>
+      <ul>
+       <li>Myszka</li>
+       <li>Monitor</li>
+        <li>Kławiatura</li>
+      </ul>
+      <br>
+      <br>
+      <ul>
+       <li>Drukarka</li>
+       <li>Skaner</li>
+        <li>Głośniki</li>
+      </ul>
+      <br>
+      <br>
+      <ul>
+       <li>Mikrofon</li>
+       <li>Słuchawki</li>
+        <li>Kamera internetowa</li>
+      </ul>
+    </div>
+</body>
+</html>
